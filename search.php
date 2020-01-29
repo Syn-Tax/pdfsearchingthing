@@ -8,7 +8,8 @@
 </head>
 <body>
     <?php
-        echo "this is a test";
+    $search = $POST;
+    
     ?>
 </body>
 </html>
